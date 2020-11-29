@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TimePicker</string>
+    <array name="readable_date_offset">
+        <item name="string_today">今天</item>
+        <item name="string_tomorrow">明天</item>
+        <item name="string_after_tomorrow">後天</item>
+    </array>
 </resources>
